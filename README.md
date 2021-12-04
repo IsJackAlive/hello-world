@@ -1,2 +1,2 @@
 # hello-world
-Welcome in my GitHub repository for study.
+Welcome in my portfolio GitHub repository.
